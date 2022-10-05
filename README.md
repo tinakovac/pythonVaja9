@@ -1,5 +1,5 @@
 # pythonVaja9
-9) Conditions and loops
+Conditions and loops
 
 ### Homework 9.1: Unit converter
 Create a program that converts units. More specifically, kilometers into miles.
